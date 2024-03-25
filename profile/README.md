@@ -1,4 +1,8 @@
 ## Hi there 👋
+U tlo etse hore u bale README file tsena in these repositories, li tla u joetsa na u hloka ho tseba technology lifeng for this project
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
