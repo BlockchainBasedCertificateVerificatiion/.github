@@ -1,8 +1,10 @@
 ## Hi there 👋
-U tlo etse hore u bale README file tsena in these repositories, li tla u joetsa na u hloka ho tseba technology lifeng for this project
-
-
-ke tla ngola installation manual ea tsona kaofela mona, le ha project e felile, instrustion on how to run it will be written here
+The organisation aims to leverage blockchain technology to ensure the
+authenticity and integrity of certificates and academic credentials.
+Instead of manually verifying the certificates issued, Universities can use
+this system to guarantee authenticity and integrity of the certificates.
+The system can be beneficial at other institutions that issue
+certificates such as Revenue Services Lesotho.
 <!--
 
 **Here are some ideas to get you started:**
